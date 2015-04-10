@@ -1,5 +1,5 @@
 {
-  "build_hash": "a2c6f31123a3cc8385d45bf46c5dde82",
+  "build_hash": "4a8018523cad1fcaca24a3dc706a34ee",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -2267,6 +2267,54 @@
     {
       "code": "0xf341",
       "name": "network"
+    },
+    {
+      "code": "0xf138",
+      "name": "nf-authorisations"
+    },
+    {
+      "code": "0xf13b",
+      "name": "nf-balances"
+    },
+    {
+      "code": "0xf13c",
+      "name": "nf-benchmarking"
+    },
+    {
+      "code": "0xf145",
+      "name": "nf-collections"
+    },
+    {
+      "code": "0xf146",
+      "name": "nf-contact-banker"
+    },
+    {
+      "code": "0xf14c",
+      "name": "nf-dashboard"
+    },
+    {
+      "code": "0xf14d",
+      "name": "nf-entities"
+    },
+    {
+      "code": "0xf14e",
+      "name": "nf-invest"
+    },
+    {
+      "code": "0xf14f",
+      "name": "nf-iportal"
+    },
+    {
+      "code": "0xf150",
+      "name": "nf-notifications"
+    },
+    {
+      "code": "0xf151",
+      "name": "nf-payments"
+    },
+    {
+      "code": "0xf152",
+      "name": "nf-settings"
     },
     {
       "code": "0xf2c2",
