@@ -1,5 +1,5 @@
 {
-  "build_hash": "4a8018523cad1fcaca24a3dc706a34ee",
+  "build_hash": "00e40a2b7a30f96174440e4a30de7c19",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -2273,6 +2273,10 @@
       "name": "nf-authorisations"
     },
     {
+      "code": "0xf153",
+      "name": "nf-back"
+    },
+    {
       "code": "0xf13b",
       "name": "nf-balances"
     },
@@ -2281,12 +2285,24 @@
       "name": "nf-benchmarking"
     },
     {
+      "code": "0xf154",
+      "name": "nf-close"
+    },
+    {
       "code": "0xf145",
       "name": "nf-collections"
     },
     {
       "code": "0xf146",
       "name": "nf-contact-banker"
+    },
+    {
+      "code": "0xf155",
+      "name": "nf-countries"
+    },
+    {
+      "code": "0xf156",
+      "name": "nf-currencies"
     },
     {
       "code": "0xf14c",
@@ -2305,16 +2321,32 @@
       "name": "nf-iportal"
     },
     {
+      "code": "0xf157",
+      "name": "nf-marketinfo"
+    },
+    {
       "code": "0xf150",
       "name": "nf-notifications"
+    },
+    {
+      "code": "0xf158",
+      "name": "nf-novoburger"
     },
     {
       "code": "0xf151",
       "name": "nf-payments"
     },
     {
+      "code": "0xf159",
+      "name": "nf-select"
+    },
+    {
       "code": "0xf152",
       "name": "nf-settings"
+    },
+    {
+      "code": "0xf15a",
+      "name": "nf-tickmark"
     },
     {
       "code": "0xf2c2",
