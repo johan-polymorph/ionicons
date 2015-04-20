@@ -1,5 +1,5 @@
 {
-  "build_hash": "4a8018523cad1fcaca24a3dc706a34ee",
+  "build_hash": "00e40a2b7a30f96174440e4a30de7c19",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -2319,6 +2319,10 @@
     {
       "code": "0xf14f",
       "name": "nf-iportal"
+    },
+    {
+      "code": "0xf15b",
+      "name": "nf-limits"
     },
     {
       "code": "0xf157",

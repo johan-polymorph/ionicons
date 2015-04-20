@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2015-4-10: Created with FontForge (http://fontforge.org)
+2015-4-13: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20150302 at Fri Apr 10 10:47:44 2015
+Created by FontForge 20150302 at Mon Apr 13 09:26:08 2015
  By Johan Nilsson
 Copyright (c) 2015, Johan Nilsson
 </metadata>
@@ -1685,6 +1685,8 @@ v410c0 28 -23 51 -51 51z" />
     <glyph glyph-name="ion-nf-iportal" unicode="&#xf14f;" horiz-adv-x="512" 
 d="M511 251c3 -9 0 -18 -8 -24l-132 -96l50 -155c3 -9 0 -18 -8 -24s-17 -6 -25 0l-132 96l-132 -96c-4 -3 -8 -4 -13 -4c-4 0 -9 1 -13 4c-8 5 -11 15 -8 24l51 155l-132 96c-8 5 -11 15 -8 24s12 15 21 15h163l50 156c3 9 12 15 21 15s18 -6 21 -15l50 -156h163
 c9 0 18 -6 21 -15zM333 157l90 66h-112c-9 0 -17 6 -20 15l-35 106l-34 -106c-3 -9 -12 -15 -21 -15h-112l91 -66c8 -5 11 -15 8 -24l-35 -107l90 66c4 3 9 4 13 4s9 -1 13 -4l90 -65l-34 106c-3 9 0 18 8 24z" />
+    <glyph glyph-name="ion-nf-limits" unicode="&#xf15b;" horiz-adv-x="511" 
+d="M256 448c141 0 255 -115 255 -256s-114 -256 -255 -256s-256 115 -256 256s115 256 256 256zM256 -5c109 0 197 88 197 197s-88 197 -197 197s-198 -88 -198 -197s89 -197 198 -197zM373 80h-235l118 112zM138 304h235l-117 -112z" />
     <glyph glyph-name="ion-nf-marketinfo" unicode="&#xf157;" horiz-adv-x="397" 
 d="M295 349h102v-362c0 -28 -23 -51 -51 -51h-295c-28 0 -51 23 -51 51v410c0 28 23 51 51 51h244v-99zM60 378v-31h183v31h-183zM337 14v0v31h-277v-31h277zM337 97v0v31h-277v-31h277zM337 180v0v31h-277v-31h277zM337 264v0v30h-277v-30h277zM326 435l55 -55h-55v55z" />
     <glyph glyph-name="ion-nf-notifications" unicode="&#xf150;" horiz-adv-x="473" 
